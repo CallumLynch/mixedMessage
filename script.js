@@ -30,5 +30,3 @@ return 'I was ' + whatHappened + ' when i was attacked by a ' + whatSize + ' ' +
 }
 
 console.log(createMixedMessage())
-console.log(createMixedMessage())
-console.log(createMixedMessage())
